@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\kswee\Documents\SSPL\Oasis\Altium_Files\Oasis_Heater_Testing\Oasis_Heater_Testing\Oasis_Heater_Testing_PCB.PcbDoc
 Date     : 7/22/2020
-Time     : 8:59:46 PM
+Time     : 9:30:24 PM
 
 Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
 Rule Violations :0
@@ -48,4 +48,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
