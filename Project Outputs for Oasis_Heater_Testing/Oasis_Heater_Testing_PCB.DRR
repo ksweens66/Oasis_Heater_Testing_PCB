@@ -1,9 +1,10 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Oasis_Heater_Testing_PCB.PcbDoc   7/22/2020  10:37:42 PM
+NCDrill File Report For: Oasis_Heater_Testing_PCB.PcbDoc   7/23/2020  5:39:03 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
-Layer Pair : Top Layer to GND
+Layer Pair : Top Layer to Bottom Layer
 ASCII RoundHoles File : Oasis_Heater_Testing_PCB.TXT
+EIA File   : Oasis_Heater_Testing_PCB.DRL
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------

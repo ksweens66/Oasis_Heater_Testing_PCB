@@ -2,236 +2,6 @@
 FileName = Oasis_Heater_Testing_PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Mechanical 15
-      File : Oasis_Heater_Testing_PCB.GM15
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 4
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-
-Used DCodes :
-    D12
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : Oasis_Heater_Testing_PCB.GM1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 4
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-
-Used DCodes :
-    D12
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 16
-      File : Oasis_Heater_Testing_PCB.GM16
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 4
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-
-Used DCodes :
-    D12
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 4
-      File : Oasis_Heater_Testing_PCB.GM4
-
-    Adding Layer      : Mechanical 4
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 4
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-
-Used DCodes :
-    D12
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Oasis_Heater_Testing_PCB.GBO
-
-    Adding Layer      : Bottom Overlay
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 4
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-
-Used DCodes :
-    D12
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : Oasis_Heater_Testing_PCB.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 4
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-
-Used DCodes :
-    D12
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : GND
-      File : Oasis_Heater_Testing_PCB.GBL
-
-    Adding Layer      : GND
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 4
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D14
-    D15
-    D16
-    D36
-    D37
-    D38
-    D39
-    D40
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Oasis_Heater_Testing_PCB.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 4
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : GND
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D14
-    D15
-    D16
-    D22
-    D23
-    D24
-    D25
-    D26
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : Oasis_Heater_Testing_PCB.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Mechanical 1
-
-    Adding Layer      : Mechanical 4
-
-    Adding Layer      : Mechanical 15
-
-    Adding Layer      : Mechanical 16
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D14
-    D15
-    D16
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-*************************************************************
-
-*************************************************************
 Generating : Top Solder
       File : Oasis_Heater_Testing_PCB.GTS
 
@@ -290,5 +60,299 @@ Used DCodes :
     D14
     D15
     D16
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Oasis_Heater_Testing_PCB.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D16
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : Oasis_Heater_Testing_PCB.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 4
+      File : Oasis_Heater_Testing_PCB.GM4
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Oasis_Heater_Testing_PCB.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D16
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Oasis_Heater_Testing_PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D16
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : Oasis_Heater_Testing_PCB.GM15
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Oasis_Heater_Testing_PCB.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D16
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Dimensions
+      File : Oasis_Heater_Testing_PCB.GM13
+
+    Adding Layer      : Dimensions
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Oasis_Heater_Testing_PCB.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 16
+      File : Oasis_Heater_Testing_PCB.GM16
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Oasis_Heater_Testing_PCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Mechanical 4
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Mechanical 16
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D14
+    D15
+    D16
+    D36
+    D37
+    D38
+    D39
+    D40
 *************************************************************
 
